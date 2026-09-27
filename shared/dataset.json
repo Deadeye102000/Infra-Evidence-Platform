@@ -1,0 +1,367 @@
+[
+  {
+    "id": "site-001",
+    "site_name": "NH-27 Bridge Pier #4 Concrete Inspection",
+    "project_type": "road",
+    "location": "Varanasi, UP",
+    "inspection_date": "2026-08-14",
+    "status": "flagged",
+    "inspector_notes": "Severe longitudinal cracking along pier stem #4. Honeycombing visible near water splash zone. Recommend immediate non-destructive ultrasound test before monsoon surge.",
+    "before_photo": "photos/site-001-before.jpg",
+    "after_photo": "photos/site-001-after.jpg",
+    "tags": [
+      "structural",
+      "bridge",
+      "urgent",
+      "monsoon-risk"
+    ],
+    "audit_id": "AUDIT-2026-SITE-001",
+    "verification_hash": "0xe2ca4cd896c668a5",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-001",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-002",
+    "site_name": "PMGSY Rural Connectivity Road - Stretch KM 12 to 18",
+    "project_type": "road",
+    "location": "Gorakhpur, UP",
+    "inspection_date": "2026-08-18",
+    "status": "resolved",
+    "inspector_notes": "Bituminous macadam wearing course overlay completed. Edge compaction verified with sand replacement test. Drainage cross-culvert cleared of silt.",
+    "before_photo": "photos/site-002-before.jpg",
+    "after_photo": "photos/site-002-after.jpg",
+    "tags": [
+      "pmgsy",
+      "asphalt",
+      "resolved",
+      "quality-pass"
+    ],
+    "audit_id": "AUDIT-2026-SITE-002",
+    "verification_hash": "0x9934be112f1ef184",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-002",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-003",
+    "site_name": "District Hospital Block B Roof Renovation",
+    "project_type": "building",
+    "location": "Patna, Bihar",
+    "inspection_date": "2026-08-20",
+    "status": "pending",
+    "inspector_notes": "Waterproofing membrane laying in progress on 3rd floor slab. Parapet plaster curing pending. Contractor advised to fix temporary rainwater runoff pipes before heavy rains.",
+    "before_photo": "photos/site-003-before.jpg",
+    "after_photo": "photos/site-003-after.jpg",
+    "tags": [
+      "health-infra",
+      "waterproofing",
+      "in-progress"
+    ],
+    "audit_id": "AUDIT-2026-SITE-003",
+    "verification_hash": "0xcf32ff231240f035",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-003",
+      "sync_status": "LOCAL_ONLY"
+    }
+  },
+  {
+    "id": "site-004",
+    "site_name": "Jal Jeevan Mission Solar Overhead Tank & Pipeline",
+    "project_type": "scheme",
+    "location": "Ranchi, Jharkhand",
+    "inspection_date": "2026-08-22",
+    "status": "flagged",
+    "inspector_notes": "HDPE supply line trench depth is only 0.4m against mandatory 1.0m requirement. Exposed pipe near road culvert vulnerable to heavy vehicular damage. Rectification notice issued to vendor.",
+    "before_photo": "photos/site-004-before.jpg",
+    "after_photo": "photos/site-004-after.jpg",
+    "tags": [
+      "jal-jeevan",
+      "water-supply",
+      "compliance-defect"
+    ],
+    "audit_id": "AUDIT-2026-SITE-004",
+    "verification_hash": "0x2da04a588b1afd7e",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-004",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-005",
+    "site_name": "Primary Health Centre (PHC) New Maternity Wing Construction",
+    "project_type": "building",
+    "location": "Lucknow, UP",
+    "inspection_date": "2026-08-25",
+    "status": "resolved",
+    "inspector_notes": "RCC column shuttering removed. Core cube compressive strength test report submitted by PWD lab: 25.4 N/mm\u00b2 (exceeds M20 spec). Electrical conduit ducting approved.",
+    "before_photo": "photos/site-005-before.jpg",
+    "after_photo": "photos/site-005-after.jpg",
+    "tags": [
+      "building",
+      "phc",
+      "rcc-testing",
+      "approved"
+    ],
+    "audit_id": "AUDIT-2026-SITE-005",
+    "verification_hash": "0xb6a9a6ae3143f52f",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-005",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-006",
+    "site_name": "State Highway SH-4 Embankment Soil Stabilization",
+    "project_type": "road",
+    "location": "Shimla, HP",
+    "inspection_date": "2026-08-28",
+    "status": "flagged",
+    "inspector_notes": "Minor slope failure and soil slip observed at chainage 42+100 following torrential rain. Retaining wall masonry missing weep holes. Immediate gabion basket installation required.",
+    "before_photo": "photos/site-006-before.jpg",
+    "after_photo": "photos/site-006-after.jpg",
+    "tags": [
+      "landslide-hazard",
+      "state-highway",
+      "geotechnical"
+    ],
+    "audit_id": "AUDIT-2026-SITE-006",
+    "verification_hash": "0xe850a022eaad7e85",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-006",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-007",
+    "site_name": "Model Anganwadi Centre Building #14",
+    "project_type": "building",
+    "location": "Ayodhya, UP",
+    "inspection_date": "2026-09-01",
+    "status": "resolved",
+    "inspector_notes": "Child-friendly sanitation units and drinking water kiosk installed. Solar panel power backup functioning. Handover clearance granted to Women & Child Dev Dept.",
+    "before_photo": "photos/site-007-before.jpg",
+    "after_photo": "photos/site-007-after.jpg",
+    "tags": [
+      "social-welfare",
+      "anganwadi",
+      "completed"
+    ],
+    "audit_id": "AUDIT-2026-SITE-007",
+    "verification_hash": "0xdbc3031e0c71a677",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-007",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-008",
+    "site_name": "Pradhan Mantri Awas Yojana (PMAY) Urban Housing Sector 4",
+    "project_type": "scheme",
+    "location": "Kanpur, UP",
+    "inspection_date": "2026-09-03",
+    "status": "pending",
+    "inspector_notes": "Block A lintel beam casting finished. Masonry brickwork uses fly-ash bricks as per green norm. Plumbing riser pipes installed up to 4th floor; pressure test scheduled for next week.",
+    "before_photo": "photos/site-008-before.jpg",
+    "after_photo": "photos/site-008-after.jpg",
+    "tags": [
+      "pmay",
+      "housing",
+      "structural-audit"
+    ],
+    "audit_id": "AUDIT-2026-SITE-008",
+    "verification_hash": "0x780fa25fefdb43db",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-008",
+      "sync_status": "LOCAL_ONLY"
+    }
+  },
+  {
+    "id": "site-009",
+    "site_name": "Flood Protection Embankment & Spur Wall Construction",
+    "project_type": "scheme",
+    "location": "Guwahati, Assam",
+    "inspection_date": "2026-09-05",
+    "status": "flagged",
+    "inspector_notes": "Geo-textile bag pitching at riverbank spur #2 shows sagging due to sub-grade erosion. Rip-rap boulder size smaller than technical spec (150mm vs required 300mm).",
+    "before_photo": "photos/site-009-before.jpg",
+    "after_photo": "photos/site-009-after.jpg",
+    "tags": [
+      "flood-control",
+      "embankment",
+      "urgent"
+    ],
+    "audit_id": "AUDIT-2026-SITE-009",
+    "verification_hash": "0x8d94698ddd3aa57c",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-009",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-010",
+    "site_name": "Varanasi Outer Ring Road Flyover Expansion Joints",
+    "project_type": "road",
+    "location": "Varanasi, UP",
+    "inspection_date": "2026-09-08",
+    "status": "resolved",
+    "inspector_notes": "Modular strip seal expansion joint replacement completed on span 8-9. Riding quality smooth; asphalt joint sealing compound properly applied.",
+    "before_photo": "photos/site-010-before.jpg",
+    "after_photo": "photos/site-010-after.jpg",
+    "tags": [
+      "flyover",
+      "expansion-joint",
+      "nhai",
+      "resolved"
+    ],
+    "audit_id": "AUDIT-2026-SITE-010",
+    "verification_hash": "0x264fbdf365d49131",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-010",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-011",
+    "site_name": "Government Model Senior Secondary School Science Lab",
+    "project_type": "building",
+    "location": "Prayagraj, UP",
+    "inspection_date": "2026-09-10",
+    "status": "pending",
+    "inspector_notes": "Fume hood exhaust ducting installed but pending electrical load connection. Acid-resistant tile flooring layout verified. Fire extinguisher points marked.",
+    "before_photo": "photos/site-011-before.jpg",
+    "after_photo": "photos/site-011-after.jpg",
+    "tags": [
+      "education-infra",
+      "lab-renovation",
+      "safety-check"
+    ],
+    "audit_id": "AUDIT-2026-SITE-011",
+    "verification_hash": "0x62bf9da3556ff5fc",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-011",
+      "sync_status": "LOCAL_ONLY"
+    }
+  },
+  {
+    "id": "site-012",
+    "site_name": "PM-KUSUM Solar Micro-Grid & Pump Station",
+    "project_type": "scheme",
+    "location": "Jhansi, UP",
+    "inspection_date": "2026-09-12",
+    "status": "resolved",
+    "inspector_notes": "5HP submersible pump coupled with 7.5kW solar array successfully commissioned. Flow meter logging 180 liters/min at peak sunlight. Farmer user group trained on control panel operation.",
+    "before_photo": "photos/site-012-before.jpg",
+    "after_photo": "photos/site-012-after.jpg",
+    "tags": [
+      "pm-kusum",
+      "solar-energy",
+      "agriculture",
+      "verified"
+    ],
+    "audit_id": "AUDIT-2026-SITE-012",
+    "verification_hash": "0xa9fe57c0c08c43fe",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-012",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-013",
+    "site_name": "Urban Stormwater Drain Box Culvert Sector 9",
+    "project_type": "road",
+    "location": "Noida, UP",
+    "inspection_date": "2026-09-15",
+    "status": "flagged",
+    "inspector_notes": "Construction debris blocking 40% of culvert inlet waterway area. Sub-contractor dump site causing drainage overflow during trial flush. Immediate desilting notice served.",
+    "before_photo": "photos/site-013-before.jpg",
+    "after_photo": "photos/site-013-after.jpg",
+    "tags": [
+      "drainage",
+      "stormwater",
+      "obstruction"
+    ],
+    "audit_id": "AUDIT-2026-SITE-013",
+    "verification_hash": "0x36c8b5e7c5013e00",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-013",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-014",
+    "site_name": "Deendayal Antyodaya Rasoi Public Canteen Shed",
+    "project_type": "building",
+    "location": "Gwalior, MP",
+    "inspection_date": "2026-09-18",
+    "status": "resolved",
+    "inspector_notes": "Pre-fabricated steel truss erection and CGI sheet roofing complete. Epoxy floor coating applied in cooking section. Greentrap connected to main sewer outlet.",
+    "before_photo": "photos/site-014-before.jpg",
+    "after_photo": "photos/site-014-after.jpg",
+    "tags": [
+      "civic-amenity",
+      "canteen",
+      "handover-ready"
+    ],
+    "audit_id": "AUDIT-2026-SITE-014",
+    "verification_hash": "0x69a2b130d9702aba",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-014",
+      "sync_status": "SYNCED"
+    }
+  },
+  {
+    "id": "site-015",
+    "site_name": "National Waterway Inland Jetty Loading Ramp",
+    "project_type": "scheme",
+    "location": "Ghazipur, UP",
+    "inspection_date": "2026-09-21",
+    "status": "pending",
+    "inspector_notes": "Bored cast-in-situ piles for floating pontoon gangway under curing process. Ultrasonic pulse velocity test requested for Pile P3 before structural steel decking.",
+    "before_photo": "photos/site-015-before.jpg",
+    "after_photo": "photos/site-015-after.jpg",
+    "tags": [
+      "inland-waterway",
+      "jetty",
+      "structural-test"
+    ],
+    "audit_id": "AUDIT-2026-SITE-015",
+    "verification_hash": "0xb95a48d61e2172db",
+    "platform_status": "VERIFIED_INFRA_PROOF",
+    "qdrant_edge_bridge": {
+      "vector_collection": "central_field_memories",
+      "edge_device": "EDGE-FIELD-RIG-ALPHA-015",
+      "sync_status": "LOCAL_ONLY"
+    }
+  }
+]
